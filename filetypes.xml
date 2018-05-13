@@ -5,6 +5,7 @@
       <mapping pattern="ZaubaAutomation" type="PLAIN_TEXT" />
       <mapping pattern="DatabaseConnection" type="Python" />
       <mapping pattern="CheckRegex" type="Python" />
+      <mapping pattern="LearnDataAnalysisUsingPython" type="Python" />
     </extensionMap>
   </component>
 </application>
